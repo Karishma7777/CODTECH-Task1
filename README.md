@@ -1,8 +1,13 @@
 Name: SHAIK KARISHMA
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS1679
+
 Domain: Java Programming
+
 Duration: June to July 2024
+
 Mentor: SRAVANI GOUNI
 
 Overview of the project:
