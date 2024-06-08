@@ -41,3 +41,14 @@ Key Insights:
 This project serves as a foundational exercise in Java programming, covering essential concepts such as user input, conditional statements, loops, and basic arithmetic operations, while also emphasizing the importance of modularity and error handling in software development.
 
 
+OUTPUT IMAGES:
+
+![Calculator1](https://github.com/Karishma7777/CODTECH-Task1/assets/171917605/846f22f0-7b02-40d6-98c8-838953c3e259)
+
+
+
+
+![Calculator2](https://github.com/Karishma7777/CODTECH-Task1/assets/171917605/8152bf0b-fbd3-4f2c-8466-dc12c914853a)
+
+
+
